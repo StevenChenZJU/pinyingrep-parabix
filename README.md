@@ -5,7 +5,7 @@ Pinyin Grep
 
 > repository link: https://cs-git-research.cs.surrey.sfu.ca/cameron/parabix-devel/-/tree/alpha
 >
-> `pinyingrep` is a team work project leaded by **Yanwen(Steven) Chen** in Foundation of Software Engineering in Spring 2020, ZJU, advised by Professor Robert Cameron. It is based on the experimental SIMD parallelism framework `Parabix` (https://cs-git-research.cs.surrey.sfu.ca/cameron/parabix-devel/-/blob/master/CMakeLists.txt).
+> `pinyingrep` is a team work project leaded by **Yanwen(Steven) Chen** in Foundation of Software Engineering in Spring 2020, ZJU, advised by Professor Robert Cameron. It is based on the experimental SIMD parallelism framework `Parabix` (https://cs-git-research.cs.surrey.sfu.ca/cameron/parabix-devel/-/tree/master).
 >
 > The iteration and version history can be found in the `README-pinyingrep.md` of the repo.
 >
